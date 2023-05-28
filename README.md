@@ -8,7 +8,7 @@ This challenge has something for everyone. It’s a HTML and CSS only project, b
 https://mohamedcleancode.github.io/Results-summary-component-main-front-end-mentor/
 
 ## Challenge:
-https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
+https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
 
 ## Features
 
